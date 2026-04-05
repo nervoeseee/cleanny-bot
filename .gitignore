@@ -1,0 +1,8 @@
+.env
+service_account.json
+db.sqlite3
+.idea/
+.venv/
+.venv1/
+__pycache__/
+*.pyc
